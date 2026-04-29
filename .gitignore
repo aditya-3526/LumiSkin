@@ -1,0 +1,19 @@
+# === Raw & large data (reproducible from public Kaggle dataset) ===
+data/raw/
+data/processed/
+
+# === Large Tableau detail export (reproducible from scripts) ===
+outputs/tableau/01_customer_detail.csv
+
+# === Internal build plan (not for portfolio) ===
+PLAN.md
+
+# === OS / IDE junk ===
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv/
+venv/
