@@ -1,8 +1,8 @@
 # === Processed data (reproducible from scripts) ===
 data/processed/
 
-# === Large Tableau detail export (reproducible from scripts) ===
-outputs/tableau/01_customer_detail.csv
+# === Tableau exports (reproducible from scripts) ===
+outputs/tableau/
 
 # === Internal build plan (not for portfolio) ===
 PLAN.md

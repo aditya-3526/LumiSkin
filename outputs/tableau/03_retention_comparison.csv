@@ -1,6 +1,0 @@
-rfm_segment,total_customers,eligible_customers_current,current_budget_allocation,current_cost_per_customer,current_expected_recovered,current_revenue_impact,roi_current,median_clv,intervention,proposed_budget_allocation,proposed_cost_per_customer,proposed_reach,proposed_coverage_pct,proposed_expected_retained,proposed_revenue_impact,roi_proposed,targeted_mean_clv,segment_sort_order,budget_shift,revenue_shift,roi_improvement
-Champions,27,4,8.91,2.23,0.3,105.47,10.8335,329.59,Loyalty recognition program (no discount),3600.0,12.0,27,100.0,1.1,629.4,0.9426,582.78,1,3591.09,523.93,-9.8909
-Loyal Customers,1578,74,164.89,2.23,5.9,1258.71,6.6338,212.62,Referral incentive program,27000.0,18.0,1500,95.1,703.5,179054.68,5.6317,328.23,2,26835.11,177795.97,-1.0020999999999995
-Potential Loyalists,11480,2554,5690.8,2.23,204.3,16666.38,1.9287,81.57,Second-purchase nudge at day 45 with 10% offer,63000.0,9.0,6999,61.0,1539.8,164448.5,1.6107,154.32,3,57309.2,147782.12,-0.31800000000000006
-At-Risk Customers,22464,20350,45343.7,2.23,1628.0,133870.44,1.9523,82.23,Three-email win-back sequence,86400.0,24.0,3600,16.0,1008.0,290530.8,2.3626,386.46,4,41056.3,156660.36,0.4103000000000001
-Lost Customers,57801,57801,128791.7,2.23,4624.1,122954.29,-0.0453,26.59,No spend — reallocate budget elsewhere,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5,-128791.7,-122954.29,0.0453

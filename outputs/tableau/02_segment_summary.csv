@@ -1,6 +1,0 @@
-rfm_segment,customer_count,total_clv,median_clv,mean_clv,p25_clv,p75_clv,total_spend,median_spend,median_recency,median_orders,median_aov,median_r_score,median_f_score,median_m_score,median_composite,customer_pct,clv_share_pct,segment_sort_order
-Champions,27,15734.94,329.59,582.78,267.88,514.07,20936.03,490.41,15.0,3.0,134.62,5.0,3.0,5.0,4.3,0.0,0.2,1
-Loyal Customers,1578,499763.42,212.62,316.71,159.44,357.31,678891.47,312.36,21.0,1.0,270.54,5.0,1.0,5.0,3.6,1.7,7.8,2
-Potential Loyalists,11480,1285279.32,81.57,111.96,56.72,116.39,2098339.15,138.01,32.0,1.0,135.96,4.0,1.0,4.0,2.85,12.3,20.0,3
-At-Risk Customers,22464,2897003.17,82.23,128.96,55.63,129.92,7380722.85,244.8,180.0,1.0,236.31,1.0,1.0,5.0,2.0,24.1,45.0,4
-Lost Customers,57801,1734530.86,26.59,30.01,17.46,39.91,5242193.35,81.72,271.0,1.0,80.77,1.0,1.0,2.0,1.5,61.9,27.0,5
