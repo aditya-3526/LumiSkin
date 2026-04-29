@@ -117,19 +117,13 @@ lumiskin-clv-rfm/
 │   └── lumiskin_clv_rfm_analysis.ipynb
 └── outputs/
     ├── charts/                      # 6 publication-quality PNGs
-    │   ├── segment_overview.png
-    │   ├── clv_distribution.png
-    │   ├── rfm_heatmap.png
-    │   ├── retention_roi_comparison.png
-    │   ├── clv_sensitivity.png
-    │   └── geographic_clv.png
-    └── tableau/                     # Tableau-ready exports
-        ├── 01_customer_detail.csv
-        ├── 02_segment_summary.csv
-        ├── 03_retention_comparison.csv
-        ├── 04_clv_sensitivity.csv
-        ├── 05_geographic_summary.csv
-        └── TABLEAU_BUILD_GUIDE.md
+        ├── segment_overview.png
+        ├── clv_distribution.png
+        ├── rfm_heatmap.png
+        ├── retention_roi_comparison.png
+        ├── clv_sensitivity.png
+        └── geographic_clv.png
+    
 ```
 
 ---
