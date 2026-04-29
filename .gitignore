@@ -1,5 +1,4 @@
-# === Raw & large data (reproducible from public Kaggle dataset) ===
-data/raw/
+# === Processed data (reproducible from scripts) ===
 data/processed/
 
 # === Large Tableau detail export (reproducible from scripts) ===
